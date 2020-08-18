@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo svg {
+  width: 15%;
+  height: 10%;
+  margin-left: 10px;
+}
+.search-div {
+  margin-left: 10px;
+  padding: 20px;
+  font-family: "Lato", "Helvetica", "Arial", sans-serif;
+  color: #0076be;
+}
+h3 {
+  color: black;
+}
+.submit {
+  background: #12b72d;
+  font-weight: 400;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  padding: 10px 35px 10px 35px;
+  display: inline-block;
+  text-decoration: none;
+  height: auto;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  border-radius: 6px;
+}
+.input {
+  outline: none;
+  border: none;
+  width: 20%;
+  background: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #000;
+  border: 1px solid #ccc;
+  padding: 5px 10px 5px 15px;
+  height: 36px;
+  border-radius: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+.results-div {
+  font-size: 13px;
+  background-color: #ffffff;
+  color: #333333;
+  font-family: verdana, arial, sans-serif, arial, sans-serif;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 4px;
+  width: 80%;
+  padding: 1%;
+  margin: 1%;
+}
+
+.link {
+  color: #009933;
+  margin-left: 4px;
+  margin-right: 4px;
+  line-height: 15px;
+  padding: 0;
+}
+
+.title {
+  font-size: 16px;
+  color: #1155cc;
+  text-decoration: underline;
+  line-height: 22px;
+}
